@@ -25,11 +25,3 @@ rettangoloUtente.DisegnaRettangolo();
 Console.WriteLine("Questo invece è il mio: ");
 rettangoloPC.StampaRettangolo();
 rettangoloPC.DisegnaRettangolo();
-
-
-
-
-
-
-
-

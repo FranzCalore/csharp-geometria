@@ -29,7 +29,7 @@ namespace Geometria
             Console.WriteLine("Base: " + baseRettangolo + " cm");
             Console.WriteLine("Altezza: " + altezzaRettangolo + " cm");
             Console.WriteLine("Perimetro: " + CalcolaPerimetro() + " cm");
-            Console.WriteLine("Area: " + CalcolaArea() + " cm2");
+            Console.WriteLine("Area: " + CalcolaArea() + " cm²");
         }
 
         public void DisegnaRettangolo()
